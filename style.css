@@ -15,3 +15,18 @@
         border-radius: 200px / 50px;
         margin: 0 auto;
       }
+    .content:hover { 
+       background-color: blue; 
+    }
+.figers { 
+    
+        width: 0;
+        height: 0;
+        border-top: 50px solid transparent;
+        border-left: 100px solid red;
+        border-bottom: 50px solid transparent;
+      }
+    .figers:hover { 
+        background-color: blueviolet;
+    }
+  
