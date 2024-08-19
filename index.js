@@ -4,4 +4,4 @@ let figers = document.querySelector("figers");
 let yinyang = document.querySelector("yin-yang");
 // -------------------------------------------
 
-let header = document.querySelector("header");
+let header = document.querySelector("header container");
